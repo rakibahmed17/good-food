@@ -32,17 +32,33 @@ body{
    background-repeat: no-repeat;
 }
 .small-div{
-   text-align: center; 
+text-align:center;
    padding-top: 100px;
    padding-bottom: 100px;
-   
+   padding-left: 20px;   
 }
 .three-section{
+   padding-left: 10px;
+   text-align: center;
    display: flex;
-   width: 80%;
-   padding-left: 100px;
+   width: 100%;
+   padding-bottom: 100px;
+
+   
+   
+   
 }
 .three-section img{
 width: 80%;
 
+}
+.receipe{
+   box-shadow: 10px 10px 40px 10px violet;
+}
+#rakib{
+   padding-left: 10px;
+   margin-left: 50px;
+}
+#rakib2{
+   padding-right: 10px; margin-right: 20px;
 }
