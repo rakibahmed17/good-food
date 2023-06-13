@@ -9,6 +9,7 @@ body{
                   display: flex;
                   padding-bottom: 100px;
                   width: 100%;
+                  padding-top: 100px;
 
                
                }
@@ -29,4 +30,19 @@ body{
 .back-image{
    background-image: url(images/Frame\ 56.jpg);
    background-repeat: no-repeat;
+}
+.small-div{
+   text-align: center; 
+   padding-top: 100px;
+   padding-bottom: 100px;
+   
+}
+.three-section{
+   display: flex;
+   width: 80%;
+   padding-left: 100px;
+}
+.three-section img{
+width: 80%;
+
 }
